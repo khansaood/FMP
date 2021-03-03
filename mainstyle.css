@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}

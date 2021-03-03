@@ -1,0 +1,206 @@
+
+body{
+    scroll-behavior: smooth;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: auto;
+}
+.back {
+    background-color: #24252a;
+    /* color: cornflowerblue; */
+    /* height: 100px; */
+}
+.navbar{
+    height: 70px;
+}
+
+
+
+/* .navfont {} */
+
+.nav-item {
+    margin-top: 10px; 
+    margin-left: 3%;  
+    height: 100%; 
+    width: 100%;
+    /* font-weight: lighter; */
+}
+
+.nav-item:hover{
+     background-color: #24252a; 
+    color: white;
+    width: auto; 
+ }
+
+.nav-link {
+    /* width: auto; */
+    width: 100px;
+    
+    
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.heading {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 35px;
+    margin-bottom: 25px;
+    margin-top: 0px;
+    letter-spacing: 4px;
+    font-weight: thin;
+}
+
+.service-card {
+    height: 300px;
+    background-color: #24252a;
+}
+
+#logoback {
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-bottom: 15px;
+    box-shadow: 8px 7px 8px black;
+}
+
+ 
+
+.About {
+    height: auto;
+    /* background-color: gainsboro;
+    box-shadow: 8px 7px 8px gray; */
+    border-radius: 10px;
+    color: #24252a;
+    text-align: center;
+}
+
+#about {
+    background-color: whitesmoke;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px black;
+}
+
+.contact-container {
+    margin-top: 40px;
+}
+
+.contact-div {
+    height: 50px;
+    width: 550px;
+    background-color: gainsboro;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 23px;
+    border-radius: 5px;
+}
+
+.contact-div:hover {
+    background-color: #24252a;
+    color: white;
+}
+
+.f {
+    background-color: royalblue;
+    width: auto;
+    font-size: 20px;
+}
+
+.f a {
+    color: white;
+}
+
+.t {
+    background-color: #1da1f2;
+    width: auto;
+}
+
+.t a {
+    color: whitesmoke;
+}
+
+.i {
+    background-color: #fd5949;
+    width: auto;
+}
+
+.i a {
+    color: whitesmoke;
+}
+
+.l {
+    background-color: #0e76a8;
+    width: auto;
+}
+
+.l a {
+    color: whitesmoke;
+}
+
+.w {
+    background-color: #44c052;
+    width: auto;
+}
+
+.w a {
+    color: whitesmoke;
+}
+
+.e {
+    background-color: #e94034;
+    width: auto;
+}
+
+.e a {
+    color: whitesmoke;
+}
+
+.inp {
+    width: 100%;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    text-align: justify;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.message {
+    height: 130px;
+}
+
+#form {
+    padding: 10px;
+}
+
+.footer {
+    background-color: #24252a;
+    width: 100%;
+    height: auto;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer li {
+    text-align: left;
+    border-right: thistle solid 2px;
+    list-style: none;
+    width: 150px;
+    font-size: 10px;
+}
+
+.footer ul {
+    text-align: center;
+    width: 250px;
+}
+
+.footerheading {
+    margin-top: 20px;
+}

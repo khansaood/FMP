@@ -1,0 +1,29 @@
+.nav-item{
+    /* margin-right:5 40px; */
+    margin: 0 15px;
+    
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+
+
+.navbar-nav{
+    margin: 0 19% 0 19%;
+}
+
+
+h1{
+    font-family: fredoka;
+    color: #24252a;
+    text-decoration: underline;
+}
+
+@font-face{
+    font-family: fredoka;
+    src:url(FredokaOne-Regular.ttf);
+}
+
+.row{
+    padding: 10px;
+}
